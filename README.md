@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contribuições
+
 <div align="center">
+  Contribuições
   <img src="https://github.com/letabilis/letabilis/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
