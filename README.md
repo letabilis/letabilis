@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![snake gif](https://github.com/letabilis/letabilis/blob/output/github-snake-dark.svg)
