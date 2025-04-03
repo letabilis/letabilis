@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h4> Contribuições </h4>
   <img src="https://github.com/letabilis/letabilis/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
