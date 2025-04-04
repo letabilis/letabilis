@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, mundo.<br>👯 Gostaria de contribuir em projetos open source<br>🌱 No momento, estou expandindo meus conhecimentos em desenvolvimento web, containers, linux<br>
+Olá, mundo.<br>💻 Cursando Engenharia de Software na UFAM<br>👯 Gostaria de contribuir em projetos open source<br>🌱 No momento, estou expandindo meus conhecimentos em desenvolvimento web, containers, linux<br>
 
 
 # 💻 Stack:
